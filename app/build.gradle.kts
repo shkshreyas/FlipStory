@@ -46,6 +46,8 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     implementation("com.github.KwabenBerko:News-API-Java:1.0.2")
     implementation ("com.squareup.picasso:picasso:2.8")
+    implementation ("com.google.android.gms:play-services-ads:22.6.0")
+
 
 
 
