@@ -17,6 +17,7 @@
         android:textStyle="bold"
         android:textColor="@color/prime"
         android:id="@+id/app_title"/>
+
     <com.google.android.material.progressindicator.LinearProgressIndicator
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
