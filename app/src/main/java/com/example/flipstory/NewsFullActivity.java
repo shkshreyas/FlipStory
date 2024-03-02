@@ -3,7 +3,6 @@ package com.example.flipstory;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.content.res.Resources;
 import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
