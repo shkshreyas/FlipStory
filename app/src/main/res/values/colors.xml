@@ -2,6 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="prime">#044942</color>
+    <color name="prime">#0D8175</color>
     <color name="second">#7A048E</color>
+    <color name="ldark">#C1BEBE</color>
 </resources>
